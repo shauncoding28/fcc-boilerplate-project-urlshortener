@@ -10,7 +10,8 @@
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "dotenv": "^8.6.0",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "valid-url": "^1.0.9"
   },
   "license": "MIT"
 }
